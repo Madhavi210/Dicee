@@ -21,3 +21,4 @@ else if (randnum1 === randnum2) {
 else {
     document.querySelector("h1").innerHTML = " 🚩  Play 2 wins!";
 }
+
